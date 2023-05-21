@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogTheme" parent="Theme.AppCompat.Dialog">
+
+        <item name="colorAccent">@color/purple_200</item>
+        <item name="android:timePickerMode">spinner</item>
+        <item name="android:numbersBackgroundColor" >#FFC107</item>
+        <item name="android:headerBackground">#643B85</item>
+        <item name="android:numbersSelectorColor">#88000000</item>
+
+
+
+
+    </style>
+
+
+</resources>

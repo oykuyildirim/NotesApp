@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NOTE APP</string>
+    <string name="bos">bos</string>
+    <string name="title">title</string>
+    <string name="detail">detail</string>
+
+
+
+
+    <string-array name="Importance">
+        <item>Less Important</item>
+        <item>Important</item>
+        <item>Very Important</item>
+
+    </string-array>
+
+
+    <string-array name="Images">
+        <item>lessimportant</item>
+        <item>important</item>
+        <item>veryimportant</item>
+    </string-array>
+</resources>
